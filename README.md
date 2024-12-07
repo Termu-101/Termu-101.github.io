@@ -26,26 +26,26 @@ I’m currently pursuing a **Master's in Data Analytics** at the **University of
 
 ---
 
-## 📜 Publications  
+## 📂 Projects  
 
-### 1. State-of-the-art in Exploring Integration of Machine Learning and Deep Learning Techniques for Diabetic Clinical Decision Support  
-[![Diabetes](https://via.placeholder.com/120x80?text=Diabetes+AI)](https://ieeexplore.ieee.org/document/10454941)  
-**Description**: Explores cutting-edge AI applications for clinical decision-making in diabetes care, focusing on integrating **machine learning** and **deep learning** techniques for better diagnosis and treatment.  
-**Link**: [Read the Full Paper](https://ieeexplore.ieee.org/document/10454941)  
+### 🔍 KalMiFyn: A Mental Illness App  
+**Description**: Developed a mental health app leveraging **emotionally intelligent AI** to provide personalized care and enhance data security using **voice authentication**. Improved security by 30% over traditional OTP methods.  
 
----
-
-### 2. Exploring The Integration of Data Analytics and IoT for Smart Decision-Making  
-[![IoT](https://via.placeholder.com/120x80?text=IoT+Analytics)](https://ieeexplore.ieee.org/document/10454934)  
-**Description**: Analyzes how **IoT technologies** and **data analytics** can be combined to optimize decision-making processes in industries such as healthcare, manufacturing, and agriculture.  
-**Link**: [Read the Full Paper](https://ieeexplore.ieee.org/document/10454934)  
+**Technologies**: Python, TensorFlow, MFCC Features  
 
 ---
 
-### 3. Role of AI in Developing Various Industries  
-[![AI Industries](https://via.placeholder.com/120x80?text=AI+Industries)](https://www.jetir.org/view?paper=JETIR2402064)  
-**Description**: Highlights the transformative role of **artificial intelligence** across industries, focusing on automation, efficiency, and innovation in business processes.  
-**Link**: [Read the Full Paper](https://www.jetir.org/view?paper=JETIR2402064)  
+### 🔐 Voice-Based Authentication System  
+**Description**: Engineered a voice authentication system using **MFCC features** to secure confidential applications, ensuring user data protection.  
+
+**Technologies**: Python, TensorFlow  
+
+---
+
+### 📰 Fake News Prediction  
+**Description**: Designed a system to identify fake news using advanced **Natural Language Processing (NLP)** techniques like **Porter Stemmer** and **LSTM** models.  
+
+**Technologies**: Python, NLP, LSTM  
 
 ---
 
@@ -73,26 +73,11 @@ I’m currently pursuing a **Master's in Data Analytics** at the **University of
 
 ---
 
-## 📂 Projects  
+## 📜 Publications  
 
-### 🔍 KalMiFyn: A Mental Illness App  
-**Description**: Developed a mental health app leveraging **emotionally intelligent AI** to provide personalized care and enhance data security using **voice authentication**. Improved security by 30% over traditional OTP methods.  
-
-**Technologies**: Python, TensorFlow, MFCC Features  
-
----
-
-### 🔐 Voice-Based Authentication System  
-**Description**: Engineered a voice authentication system using **MFCC features** to secure confidential applications, ensuring user data protection.  
-
-**Technologies**: Python, TensorFlow  
-
----
-
-### 📰 Fake News Prediction  
-**Description**: Designed a system to identify fake news using advanced **Natural Language Processing (NLP)** techniques like **Porter Stemmer** and **LSTM** models.  
-
-**Technologies**: Python, NLP, LSTM  
+1. [**State-of-the-art in Exploring Integration of Machine Learning and Deep Learning Techniques for Diabetic Clinical Decision Support**](https://ieeexplore.ieee.org/document/10454941)  
+2. [**Exploring The Integration of Data Analytics and IoT for Smart Decision-Making**](https://ieeexplore.ieee.org/document/10454934)  
+3. [**Role of AI in Developing Various Industries**](https://www.jetir.org/view?paper=JETIR2402064)  
 
 ---
 
