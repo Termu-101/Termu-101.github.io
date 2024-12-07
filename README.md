@@ -1,3 +1,8 @@
+---
+layout: default
+title: Abhishek Khandge's Tech Portfolio
+---
+
 # Abhishek Khandge's Tech Portfolio  
 
 Welcome to my **Tech Portfolio**! I'm a data enthusiast and AI innovator, with a passion for solving complex problems through technology. Explore my projects, skills, and experiences as I embark on my journey to redefine what's possible in **Data Analytics** and **Artificial Intelligence**.  
