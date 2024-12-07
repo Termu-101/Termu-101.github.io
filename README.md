@@ -1,91 +1,93 @@
-# Abhishek Khandge's Tech Portfolio
+# Abhishek Khandge's Tech Portfolio  
 
-Welcome to my **Tech Portfolio**! I’m passionate about turning **data** into actionable insights and exploring the intersection of **technology** and **society**. Here, you’ll find a showcase of my skills, projects, and professional journey.
+Welcome to my **Tech Portfolio**! I'm a data enthusiast and AI innovator, with a passion for solving complex problems through technology. Explore my projects, skills, and experiences as I embark on my journey to redefine what's possible in **Data Analytics** and **Artificial Intelligence**.  
 
 ---
 
 ## 🌟 About Me  
 
-I am currently pursuing a **Master's in Data Analytics and Computational Social Science** at **UMass Amherst**. With a solid foundation in **Machine Learning** and experience mentoring over 30+ students, I specialize in creating impactful data-driven solutions.
+I’m currently pursuing a **Master's in Data Analytics** at the **University of Massachusetts Amherst**, with a perfect GPA of 4.0/4.0. Having designed and deployed AI-driven systems in my professional roles and developed advanced ML projects, I thrive at the intersection of **innovation** and **practical application**.  
 
 ---
 
 ## 🛠️ Skills  
 
 ### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
 
 ### Tools & Technologies  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Expertise  
-- 🧠 **Machine Learning & AI**  
-- 📊 **Data Visualization**  
-- 🌐 **Social Network Analysis**  
-- 💡 **Computational Social Science**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FEAA2D?style=flat&logo=huggingface&logoColor=black)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 
 ---
 
 ## 📂 Projects  
 
-### 🔍 [Predicting Social Trends Using ML](#)  
-**Description**: Leveraged machine learning to analyze and predict social trends using real-time data from social media platforms.  
-**Technologies**: Python, NLP, Scikit-learn, Tableau  
-**Outcome**: Achieved 85% accuracy in sentiment classification.  
+### 🔍 KalMiFyn: A Mental Illness App  
+**Description**: Developed a mental health app leveraging **emotionally intelligent AI** to provide personalized care and enhance data security using **voice authentication**. Improved security by 30% over traditional OTP methods.  
+
+**Technologies**: Python, TensorFlow, MFCC Features  
 
 ---
 
-### 🌎 [Interactive Dashboard for COVID-19 Analytics](#)  
-**Description**: Designed a global dashboard to track COVID-19 cases.  
-**Technologies**: Plotly Dash, SQL, Flask  
-**Outcome**: Enabled granular insights into case trends.  
+### 🔐 Voice-Based Authentication System  
+**Description**: Engineered a voice authentication system using **MFCC features** to secure confidential applications, ensuring user data protection.  
+
+**Technologies**: Python, TensorFlow  
 
 ---
 
-### 📚 [Recommendation System for E-Learning](#)  
-**Description**: Built a personalized learning resource recommendation system.  
-**Technologies**: Python, Pandas, Scikit-learn  
-**Outcome**: Improved resource usage by 40%.  
+### 📰 Fake News Prediction  
+**Description**: Designed a system to identify fake news using advanced **Natural Language Processing (NLP)** techniques like **Porter Stemmer** and **LSTM** models.  
+
+**Technologies**: Python, NLP, LSTM  
 
 ---
 
 ## 💼 Experience  
 
-### 📋 Machine Learning Mentor  
-- Guided 30+ students through hands-on projects in ML and Data Science.  
-- Organized weekly workshops and curated tailored resources.
+### **AI Engineer Intern** | Gozoop Group (Jun 2024 – Aug 2024)  
+- Developed an **AI-driven interview system** for dynamic resume-based interactions in text and voice.  
+- Automated candidate evaluations, reducing HR workload by 30%.  
 
-### 🧑‍💻 Data Analyst Intern | [Company Name]  
-- Conducted exploratory data analysis for large datasets.  
-- Automated workflows, reducing manual effort by 30%.  
+### **Junior Developer** | Gozoop Group (Mar 2024 – May 2024)  
+- Designed a **360-degree feedback system**, improving response rates by 25%.  
+- Increased team performance by 15% through KPI-driven feedback.  
+
+### **Financial Data Analyst** | Pravin Manudhane & Co (Dec 2023 – Feb 2024)  
+- Conducted detailed analyses of financial statements to identify potential **investment opportunities**.  
 
 ---
 
 ## 🎓 Education  
 
-- **Master's in Data Analytics and Computational Social Science**  
-  *University of Massachusetts Amherst* | *2024 - Present*  
+- **Master's in Data Analytics** | *University of Massachusetts Amherst (2024 – 2026)*  
+  GPA: 4.0/4.0  
+- **Bachelor's in Artificial Intelligence & Data Science** | *KJ Somaiya Institute of Technology (2020 – 2024)*  
+  GPA: 3.86/4.0  
 
-- **Bachelor's in [Your Major]**  
-  *[Your Undergraduate Institution]*  
+---
+
+## 📜 Publications  
+
+1. [**State-of-the-art in Exploring Integration of Machine Learning and Deep Learning Techniques for Diabetic Clinical Decision Support**](https://ieeexplore.ieee.org/document/10454941)  
+2. [**Exploring The Integration of Data Analytics and IoT for Smart Decision-Making**](https://ieeexplore.ieee.org/document/10454934)  
+3. [**Role of AI in Developing Various Industries**](https://www.jetir.org/view?paper=JETIR2402064)  
 
 ---
 
 ## 📬 Contact  
 
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-🔗 **GitHub**: [github.com/abhishek-khandge](https://github.com/abhishek-khandge)  
-💼 **LinkedIn**: [linkedin.com/in/abhishek-khandge](https://linkedin.com/in/abhishek-khandge)  
+📧 **Email**: [abhishekkhandge10.10@gmail.com](mailto:abhishekkhandge10.10@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/abhishek-khandge](https://linkedin.com/in/abhishek-khandge)  
+💼 **GitHub**: [github.com/Termu-101](https://github.com/Termu-101)  
+🌐 **Portfolio**: [termu.github.io](https://termu.github.io)  
 
 ---
 
-### 🌐 Thanks for visiting!  
-Feel free to reach out if you'd like to collaborate or just chat about tech!  
+Feel free to connect or collaborate. Let's make something amazing together!
